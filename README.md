@@ -1,3 +1,3 @@
 # Alura-Logica-de-progamacao
-Curso: Alura
+Curso: Alura -
 Conteúdo: * JavaScript e HTML
